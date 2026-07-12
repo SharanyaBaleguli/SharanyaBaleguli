@@ -1,7 +1,6 @@
 <p align="center">
   <img src="github-banner.png" width="100%" alt="GitHub profile banner">
 </p>
-## Hi there 👋
 
 <!--
 **sharanya200224/sharanya200224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
