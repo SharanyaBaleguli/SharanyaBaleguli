@@ -2,7 +2,7 @@
   <img src="github_banner.png" width="100%" alt="GitHub profile banner">
 </p>
 
-# Hi, I'm Sharanya B 👋
+
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,7 +10,7 @@
   <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
-## About Me
+## About
 
 I'm a Backend Developer and AI/ML enthusiast, passionate about building efficient, scalable, and data-driven applications. I recently completed my Master of Computer Applications (MCA) with a 9.08 GPA, and I love turning complex problems into clean, well-structured code.
 
@@ -24,12 +24,12 @@ I'm mainly interested in:
 
 **Know:** Python, SQL, HTML, CSS, JS, Snowflake, Django, Django REST Framework, FastAPI, Flask
 
-## 💼 Experience
+##  Experience
 
 - **AI/ML Intern — CodeLab Systems** (Dec 2024 – Feb 2025)
   Worked on Artificial Intelligence and Machine Learning tasks, including data preprocessing, model development, and evaluation.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 - **Cocoa Butter Quality Prediction** — A machine learning model built with Python and Scikit-learn to classify cocoa butter quality. Used SHAP for feature-importance analysis and was selected for the KSCST State-Level Project Exhibition.
 
