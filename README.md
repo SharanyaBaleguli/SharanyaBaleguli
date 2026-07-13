@@ -29,7 +29,7 @@ I'm mainly interested in:
 - **AI/ML Intern — CodeLab Systems** (Dec 2024 – Feb 2025)
   Worked on Artificial Intelligence and Machine Learning tasks, including data preprocessing, model development, and evaluation.
 
-##  Featured Projects
+## Projects
 
 - **Cocoa Butter Quality Prediction** — A machine learning model built with Python and Scikit-learn to classify cocoa butter quality. Used SHAP for feature-importance analysis and was selected for the KSCST State-Level Project Exhibition.
 
