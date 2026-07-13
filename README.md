@@ -40,3 +40,14 @@ I'm mainly interested in:
 - **RAG-Powered Project Intelligence Assistant** — An AI document assistant using RAG, FAISS, and LangChain for semantic search. Answers are generated via the Groq LLM API, with a Streamlit interface.
 
 - **Automatic Tollgate System** — An automated toll system that detects vehicles and controls the gate without manual intervention. Built using sensor/RFID-based detection and gate control logic.
+
+## Skills
+**Languages & Web**: Python, SQL, HTML, CSS, JavaScript
+
+**Frameworks:** Django, Django REST Framework, FastAPI, Flask
+
+**Databases:** MySQL, Oracle SQL, Snowflake
+
+**Tools:** VS Code, Git, GitHub, Postman, Jupyter Notebook
+
+**AI/ML & Data:** Scikit-learn, Pandas, Matplotlib, SHAP, LangChain, FAISS, Streamlit
