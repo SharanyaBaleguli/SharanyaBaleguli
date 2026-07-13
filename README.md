@@ -2,7 +2,7 @@
   <img src="github_banner.png" width="100%" alt="GitHub profile banner">
 </p>
 
-# Hi, I'm Sharanya B 👋
+
 
 ## About Me
 
@@ -17,4 +17,14 @@ I'm mainly interested in:
 - **AI & Machine Learning** — Exploring predictive modeling, data pipelines, and applied AI, including Retrieval-Augmented Generation (RAG) systems
 
 **Know:** Python, SQL, HTML, CSS, JS, Snowflake, Django, Django REST Framework, FastAPI, Flask
+
+
+
+## Experience
+
+
+AI/ML Intern — CodeLab Systems
+Worked on Artificial Intelligence and Machine Learning tasks, including data preprocessing, model development, and evaluation.
+
+Project: Metabolic Syndrome Classification — Built predictive classification models to detect metabolic syndrome using structured health data, involving data cleaning, exploratory data analysis, and model evaluation.
 
