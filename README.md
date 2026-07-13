@@ -68,9 +68,14 @@ Vivekananda College of Arts, Science and Commerce, Puttur | Jun 2020 – Aug 202
 
  ## Contact
 
+<br>
 
 **Phone:** +91 96064 98369
+<br>
 **Email:** sharanyabaleguli@gmail.com
+<br>
 **GitHub:** github.com/sharanya200224
+<br>
 **LinkedIn:** YOUR-LINKEDIN-LINK
+<br>
 **Portfolio:** YOUR-PORTFOLIO-LINK
