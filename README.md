@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/sharanya-b-b6b640342"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/sharanyabaleguli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sharanyabaleguli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://sharanyabaleguli.github.io/Portfoli/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&loghttps://drive.google.com/file/d/1MNRyx9HaeqX3IuuQ2Dhbe86lsFnA-Yrn/view?usp=drive_linkoColor=white" alt="Portfolio"></a>
    <a href="https://drive.google.com/file/d/1MNRyx9HaeqX3IuuQ2Dhbe86lsFnA-Yrn/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
@@ -78,7 +78,7 @@ Vivekananda College of Arts, Science and Commerce, Puttur | Jun 2020 – Aug 202
 <br>
 **GitHub:** https://www.github.com/sharanyabaleguli
 <br>
-**LinkedIn:** https://www.linkedin.com/in/sharanya-b-b6b640342
+**LinkedIn:** https://www.linkedin.com/in/sharanyabaleguli
 <br>
 **Portfolio:** https://sharanyabaleguli.github.io/Portfoli/
 
